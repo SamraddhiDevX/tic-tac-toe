@@ -1,0 +1,19 @@
+.landing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+    margin-left: 10px;
+  }
+  
+  .left-column {
+  
+    margin-right: 220px;
+ 
+  }
+  
+  .right-column {
+   
+    margin-bottom: 200px;
+  }
+  

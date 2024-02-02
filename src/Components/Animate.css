@@ -1,0 +1,28 @@
+ .animate {
+
+  display: grid;
+  grid-template-rows: 90px 90px;
+  grid-template-columns: 90px 90px;
+  cursor: pointer;
+  margin-bottom: 100px;
+  
+  border-radius: 5%;
+
+}
+
+.boxlanding {
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.x-design {
+  color:  #f9d459;  ; 
+}
+
+.o-design {
+  color: #f24d56;; 
+} 
+
+
