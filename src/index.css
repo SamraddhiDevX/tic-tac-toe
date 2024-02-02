@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: 'CustomFont1Name';
+  src: url('../public/Fonts/CustomFont1Name.ttf') format('truetype'),
+       
+}
